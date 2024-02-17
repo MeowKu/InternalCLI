@@ -1,0 +1,22 @@
+{
+
+    "ApplicationID": "367827983903490050",
+
+    "ImageURL": "https://assets.ppy.sh/beatmaps/1550633/covers/list.jpg",
+
+    "RPC_Choice": 1,
+    "RPC_Type": "PLAYING",
+    "RPC_URL": "https://www.youtube.com/watch?v=5icFcPkVzMg",
+    "RPC_State": "Arcade Game",
+    "RPC_Name": "Osu!",
+    "RPC_Details": "Kukurio!",
+
+    "useParty": true,
+    "RPC_Party_max": 8,
+    "RPC_Party_current": 1,
+
+    "useButton": true,
+    "ButtonName": "Beatmap",
+    "ButtonURL": "https://osu.ppy.sh/beatmapsets/1391659#osu/2873429"
+
+}
