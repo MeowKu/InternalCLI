@@ -1,3 +1,9 @@
+# PROJECT MOVED
+# PROJECT MOVED
+# PROJECT MOVED
+Here is the main project https://github.com/MeowKu/InternalUI
+
+
 # InternalCLI
 A discord selfbot tool written in Javascript that do a lot of things that you want!
 
